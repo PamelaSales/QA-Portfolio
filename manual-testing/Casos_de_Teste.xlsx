@@ -3,16 +3,16 @@ ID	Módulo	Cenário	Pré-condição	Passos	Resultado Esperado	Prioridade	Status
 
 Abaixo estão alguns exemplos para um e-commerce.
 
-ID	Módulo	Cenário	Pré-condição	Passos	Resultado Esperado	Prioridade	Status
-CT-001	Login	Login com credenciais válidas	Usuário cadastrado	Inserir e-mail e senha válidos e clicar em Entrar	Login realizado e redirecionamento para a página inicial	Alta	Não Executado
-CT-002	Login	Login com senha incorreta	Usuário cadastrado	Inserir e-mail válido e senha incorreta	Exibir mensagem "E-mail ou senha inválidos"	Alta	Não Executado
-CT-003	Cadastro	Cadastro de novo usuário	Nenhuma	Preencher todos os campos obrigatórios e clicar em Cadastrar	Conta criada com sucesso	Alta	Não Executado
-CT-004	Pesquisa	Pesquisar produto existente	Sistema disponível	Pesquisar por "Tênis"	Lista de produtos relacionados exibida	Média	Não Executado
-CT-005	Pesquisa	Pesquisar produto inexistente	Sistema disponível	Pesquisar por "Produto XYZ"	Exibir mensagem "Nenhum produto encontrado"	Média	Não Executado
-CT-006	Produto	Visualizar detalhes do produto	Produto disponível	Clicar em um produto da lista	Página de detalhes do produto exibida	Alta	Não Executado
-CT-007	Carrinho	Adicionar produto ao carrinho	Produto disponível	Clicar em Adicionar ao carrinho	Produto adicionado ao carrinho	Alta	Não Executado
-CT-008	Carrinho	Alterar quantidade do produto	Produto no carrinho	Alterar quantidade para 2	Quantidade e valor total atualizados	Média	Não Executado
-CT-009	Carrinho	Remover produto do carrinho	Produto no carrinho	Clicar em Remover	Produto removido do carrinho	Média	Não Executado
-CT-010	Checkout	Finalizar compra com dados válidos	Produto no carrinho	Preencher dados de entrega e pagamento e confirmar	Compra concluída com sucesso	Alta	Não Executado
-CT-011	Checkout	Finalizar compra sem endereço	Produto no carrinho	Deixar endereço em branco e confirmar	Exibir mensagem informando que o endereço é obrigatório	Alta	Não Executado
-CT-012	Perfil	Efetuar logout	Usuário autenticado	Clicar em Sair	Sessão encerrada e retorno à página de login	Média	Não Executado
+ID	Módulo	Cenário	    Pré-condição	                                         Passos	                                                                 Resultado Esperado                                      	       Prioridade	Status
+CT-001	    Login       Login com credenciais válidas	Usuário cadastrado	     Inserir e-mail e senha válidos e clicar em Entrar	                     Login realizado e redirecionamento para a página inicial	       Alta	Não Executado
+CT-002	    Login	      Login com senha incorreta	Usuário cadastrado	         Inserir e-mail válido e senha incorreta	                               Exibir mensagem "E-mail ou senha inválidos"	                   Alta	Não Executado
+CT-003	    Cadastro	  Cadastro de novo usuário	                             Nenhuma	Preencher todos os campos obrigatórios e clicar em Cadastrar	 Conta criada com sucesso                                      	Alta	Não Executado
+CT-004	    Pesquisa	  Pesquisar produto existente	Sistema disponível	       Pesquisar por "Tênis"	                                                 Lista de produtos relacionados exibida	Média	Não Executado
+CT-005	    Pesquisa	  Pesquisar produto inexistente	Sistema disponível	     Pesquisar por "Produto XYZ"	                                           Exibir mensagem "Nenhum produto encontrado"	Média	Não Executado
+CT-006	    Produto	    Visualizar detalhes do produto	Produto disponível	   Clicar em um produto da lista	                                         Página de detalhes do produto exibida	Alta	Não Executado
+CT-007	    Carrinho	  Adicionar produto ao carrinho	Produto disponível	     Clicar em Adicionar ao carrinho	                                       Produto adicionado ao carrinho	Alta	Não Executado
+CT-008	    Carrinho	  Alterar quantidade do produto	Produto no carrinho	     Alterar quantidade para 2	                                             Quantidade e valor total atualizados	Média	Não Executado
+CT-009	    Carrinho	 Remover produto do carrinho	Produto no carrinho	       Clicar em Remover	                                                     Produto removido do carrinho	Média	Não Executado
+CT-010	    Checkout	 Finalizar compra com dados válidos	Produto no carrinho	 Preencher dados de entrega e pagamento e confirmar                     Compra concluída com sucesso	Alta	Não Executado
+CT-011	    Checkout	 Finalizar compra sem endereço	Produto no carrinho	     Deixar endereço em branco e confirmar	                                Exibir mensagem informando que o endereço é obrigatório	Alta	Não Executado
+CT-012	    Perfil	   Efetuar logout	Usuário autenticado	Clicar em Sair	     Sessão encerrada                                                        retorno à página de login	Média	Não Executado
