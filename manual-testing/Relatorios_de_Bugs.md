@@ -43,7 +43,7 @@ O botão é clicado, porém nenhum produto é adicionado ao carrinho.
 
 ### Evidência
 
-`evidence/bug001.png`
+``
 
 ---
 
