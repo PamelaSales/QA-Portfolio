@@ -78,7 +78,7 @@ O cadastro é realizado normalmente.
 
 ### Evidência
 
-`evidence/bug002.png`
+``
 
 ---
 
