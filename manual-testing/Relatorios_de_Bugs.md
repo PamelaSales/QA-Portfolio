@@ -7,7 +7,7 @@ Data: 20/07/2026
 
 Responsável: Pâmela Sales Toledo Dias
 
----
+--
 
 ## BUG-001
 
@@ -43,7 +43,7 @@ O botão é clicado, porém nenhum produto é adicionado ao carrinho.
 
 ### Evidência
 
-``
+`Testes manuais/IMG_1999.jpeg`
 
 ---
 
