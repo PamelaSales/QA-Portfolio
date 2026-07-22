@@ -43,7 +43,7 @@ O botão é clicado, porém nenhum produto é adicionado ao carrinho.
 
 ### Evidência
 
-`Testes manuais/IMG_1999.jpeg`
+`manual-testing/IMG_2002.jpeg`
 
 ---
 
