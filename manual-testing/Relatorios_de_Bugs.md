@@ -111,4 +111,4 @@ A quantidade é alterada, mas o valor permanece o mesmo.
 
 ### Evidência
 
-`evidence/bug003.png`
+`manual-testing/IMG_2003.jpeg`
